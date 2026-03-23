@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+secrets.tfvars
+
+# Ansible
+*.retry
+
+# General
+.DS_Store
+*.log
+.env
+__pycache__/
