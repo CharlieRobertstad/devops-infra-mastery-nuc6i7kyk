@@ -1,0 +1,43 @@
+# Day 01 — DevOps Infra Mastery Portfolio
+
+**Date:** March 25, 2026  
+**Week:** 1 (Prerequisites & Setup)  
+**Progress:** 1/28 days completed
+
+## What I Accomplished Today
+- Created the exact `devops-infra-mastery-nuc6i7kyk` GitHub repository from scratch
+- Built the full folder structure recommended by the course (`week1-prereqs/`, `capstone/`, `.github/workflows/`, `docs/daily-logs/`, etc.)
+- Set up local Git + WSL workflow with VS Code
+- Configured `git push-secure` alias for automatic security checks
+- Fixed common first-time Git issues (author identity, WSL paste shortcuts)
+- Optimized VS Code layout for daily logs + Terraform + GitLens
+- Installed/verified Markdown All in One, GitLens, and Remote-WSL extensions
+
+## Key Learnings
+- **Git vs GitHub**: Git is the local engine, GitHub is just the remote backup + CI/CD host
+- **WSL + VS Code** is the professional way to run Linux tools on Windows
+- Why we never edit code in the GitHub web UI (offline work, security scans, speed)
+- Importance of `.gitkeep`, proper `.gitignore`, and clean commit messages
+- How pre-push hooks / aliases will save us in Week 2+ when we add real `tfsec` + `checkov`
+
+## Challenges & How I Solved Them
+- WSL paste (Ctrl+V didn't work) → used right-click + Shift+Insert
+- Git "Author identity unknown" → ran `git config --global user.name` + `user.email`
+- Hidden `.gitignore` file → learned `ls -a`
+
+## Screenshots / Proof (added to `docs/screenshots/`)
+- [ ] GitHub repo homepage with full folder structure
+- [ ] VS Code layout (Explorer + Source Control + Terminal + Markdown preview)
+- [ ] First commit on GitHub
+
+## Tomorrow's Plan (Day 02)
+- Start Week 1 prereqs labs
+- Install Ollama + pull first model
+- Create `week1-prereqs/` content
+- Daily log + screenshot
+
+**Daily Reflection:**  
+Today was 100% setup, but I now have a production-grade portfolio foundation that most juniors never build. Feeling extremely confident going into the real IaC work.
+
+---
+*Updated with `git push-secure` on Day 01*
