@@ -25,10 +25,13 @@
 - Git "Author identity unknown" → ran `git config --global user.name` + `user.email`
 - Hidden `.gitignore` file → learned `ls -a`
 
-## Screenshots / Proof (added to `docs/screenshots/`)
-- [ ] GitHub repo homepage with full folder structure
-- [ ] VS Code layout (Explorer + Source Control + Terminal + Markdown preview)
-- [ ] First commit on GitHub
+## Screenshots / Proof
+
+![GitHub Repository - Full Folder Structure](docs/screenshots/day01-github-repo.png)
+
+![VS Code Optimized DevOps Layout](docs/screenshots/day01-vs-code-layout.png)
+
+![First Commit on GitHub](docs/screenshots/day01-first-commit.png)
 
 ## Tomorrow's Plan (Day 02)
 - Start Week 1 prereqs labs
