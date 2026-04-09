@@ -29,19 +29,19 @@
 
 ## Screenshots / Proof
 
-![nvidia-smi](docs/screenshots/day02-nvidia-smi.png)
+![nvidia-smi](../screenshots/day02-nvidia-smi.png)
 
-![Hermes starting](docs/screenshots/day02-hermes-start.png)
+![Hermes starting](../screenshots/day02-hermes-start.png)
 
-![Hermes UI](docs/screenshots/day02-hermes-ui.png)
+![Hermes UI](../screenshots/day02-hermes-ui.png)
 
-![Qwen starting](docs/screenshots/day02-qwen-start.png)
+![Qwen starting](../screenshots/day02-qwen-start.png)
 
-![Router test agent](docs/screenshots/day02-router-test-agent.png)
+![Router test agent](../screenshots/day02-router-test-agent.png)
 
-![Router test agent Qwen](docs/screenshots/day02-router-test-agent-qwen.png)
+![Router test agent Qwen](../screenshots/day02-router-test-agent-qwen.png)
 
-![VS Code repo](docs/screenshots/day02-vs-code-repo.png)
+![VS Code repo](../screenshots/day02-vs-code-repo.png)
 
 ## Tomorrow's Plan (Day 03)
 - Continue Week 1 prereqs
