@@ -28,9 +28,20 @@
 - Broken shell config after recovery → recreated clean `.bashrc` and `.bash_aliases`
 
 ## Screenshots / Proof
-- [ ] `nvidia-smi` showing CUDA 13.2
-- [ ] Hermes and Qwen both starting successfully
-- [ ] Router switching between models
+
+![nvidia-smi](docs/screenshots/day02-nvidia-smi.png)
+
+![Hermes starting](docs/screenshots/day02-hermes-start.png)
+
+![Hermes UI](docs/screenshots/day02-hermes-ui.png)
+
+![Qwen starting](docs/screenshots/day02-qwen-start.png)
+
+![Router test agent](docs/screenshots/day02-router-test-agent.png)
+
+![Router test agent Qwen](docs/screenshots/day02-router-test-agent-qwen.png)
+
+![VS Code repo](docs/screenshots/day02-vs-code-repo.png)
 
 ## Tomorrow's Plan (Day 03)
 - Continue Week 1 prereqs
