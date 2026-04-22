@@ -9,6 +9,7 @@
 - Used my local AI agent (Hermes) to generate the Terraform configuration
 - Successfully ran `terraform plan` and `terraform apply` to add routing + security groups
 - Learned how to add Internet Gateway, route tables, and security groups in Terraform
+- Cleaned up all resources safely with `terraform destroy` (no lingering costs)
 
 ## Key Learnings
 - How to make a public subnet reachable from the internet
