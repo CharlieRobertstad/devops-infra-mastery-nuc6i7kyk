@@ -5,7 +5,7 @@
 
 ## Tasks Completed
 - [ ] Installed Terraform, Ansible, and AWS CLI
-- [ ] Created first Terraform configuration with AI help
+- [x] Created first Terraform configuration with AI help
 - [ ] Tested `terraform init`, `terraform plan`, and `terraform validate`
 
 ## Notes from Hermes / Qwen

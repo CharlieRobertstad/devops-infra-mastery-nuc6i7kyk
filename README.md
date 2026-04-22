@@ -2,7 +2,7 @@
 
 **28-Day Hands-on Course** — Terraform • Ansible • OpenStack • Multi-Cloud • CI/CD • Security + Local AI
 
-![Progress](https://img.shields.io/badge/Day%2003%20of%2028-11%25-success)
+![Progress](https://img.shields.io/badge/Day%2004%20of%2028-14%25-success)
 
 **Live Portfolio**: https://github.com/charlierobertstad/devops-infra-mastery-nuc6i7kyk
 

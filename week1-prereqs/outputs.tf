@@ -1,11 +1,5 @@
-# outputs.tf
-# This file defines what information Terraform should display
-# after it finishes running (terraform apply or terraform output).
-# Outputs are extremely useful for learning and for passing
-# information to other systems or scripts.
-
 output "vpc_id" {
-  description = "The ID of the VPC we created"
+  description = "The ID of the VPC"
   value       = aws_vpc.main.id
 }
 
@@ -19,7 +13,12 @@ output "private_subnet_id" {
   value       = aws_subnet.private.id
 }
 
-output "vpc_cidr" {
-  description = "The CIDR block of the VPC"
-  value       = aws_vpc.main.cidr_block
+output "public_security_group_id" {
+  description = "The ID of the public security group"
+  value       = aws_security_group.public.id
+}
+
+output "private_security_group_id" {
+  description = "The ID of the private security group"
+  value       = aws_security_group.private.id
 }
