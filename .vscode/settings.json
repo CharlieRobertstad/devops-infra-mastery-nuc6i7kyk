@@ -1,0 +1,33 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.associations": {
+    "*.yml": "ansible",
+    "*.yaml": "ansible"
+  },
+  "ansible.ansible.path": "/usr/bin/ansible",
+  "ansible.ansibleLint.enabled": true,
+  "ansible.executionEnvironment.enabled": false,
+  "terraform.languageServer.enabled": true,
+  "[terraform]": {
+    "editor.formatOnSave": true
+  },
+  "[yaml]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  },
+  "docker.showExplorer": true,
+  "kubernetes.completion.enabled": true,
+  "python.defaultInterpreterPath": "/usr/bin/python3",
+  "python.linting.enabled": true,
+  "markdown.preview.fontFamily": "system-ui",
+  "markdown.preview.breaks": true,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "workbench.colorTheme": "Dark Modern",
+  "editor.minimap.enabled": false,
+  "explorer.compactFolders": false
+}
